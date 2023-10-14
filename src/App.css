@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+header {
+  display: flex;
+  align-items: center;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -20,5 +25,10 @@
 .active-link {
   text-decoration: none;
 }
+
+.planetImage {
+  width: 3.6rem;
+}
+
 
 
